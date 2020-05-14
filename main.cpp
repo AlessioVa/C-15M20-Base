@@ -31,4 +31,4 @@ int main() {
   cout << "\n*** Grazie a tutti per aver mantenuto le misure sanitarie! ***\n";
 
 
-}git init
+}
